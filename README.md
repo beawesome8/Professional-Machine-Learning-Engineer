@@ -1,2 +1,2 @@
-# Professional-Machine-Learning-Engineer
-This repository contains tasks/projects from Google Skills in order to become a Professional Machine Learning Engineer certified by Google
+# Google Cloud Platform
+A collection of hands-on labs and projects completed on Google Cloud Platform, covering core cloud concepts and services.
